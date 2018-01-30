@@ -1,3 +1,21 @@
+# Note from Applicant
+
+I have added two files to the repo: one is the static version of the code (HTML) and the other is the full ipython notebook.
+
+The notebook was developed on Python 3.6.1 (Anaconda 4.4.0) with the following dependencies:
+* ipython 5.3.0
+* jupyter-client 5.0.1
+* numpy 1.12.1
+* pandas 0.20.1
+* scikit-learn 0.18.1
+* h2o 3.16.0.4
+* matplotlib 2.0.2
+* seaborn 0.7.1
+
+If you have any questions, please feel free to reach out: jeremys@galton.uchicago.edu
+
+---
+
 # DSaPP Research Assistant and Volunteer Projects
 This repository includes an exercise for aspiring DSaPP volunteers and research assistants to complete. It will help us understand what skills you have so we can find the best fit for you at DSaPP.
 
